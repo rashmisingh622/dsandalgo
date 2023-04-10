@@ -1,0 +1,15 @@
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/bin/Debug/net6.0/BinarySearch
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/bin/Debug/net6.0/BinarySearch.deps.json
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/bin/Debug/net6.0/BinarySearch.runtimeconfig.json
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/bin/Debug/net6.0/BinarySearch.dll
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/bin/Debug/net6.0/BinarySearch.pdb
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.csproj.AssemblyReference.cache
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.AssemblyInfo.cs
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.dll
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/refint/BinarySearch.dll
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.pdb
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/BinarySearch.genruntimeconfig.cache
+/Users/Rashmi/Projects/dsandalgo/BinarySearch/BinarySearch/obj/Debug/net6.0/ref/BinarySearch.dll
