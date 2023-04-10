@@ -3,16 +3,27 @@ namespace DailyChallenge.Models
 {
 	public static class LinkedListHelper
 	{ 
-		public static Node AddNode(this Node startNode, Node newNode)
+		public static void AddNode(this Node startNode, Node newNode)
 		{
 			Node original = startNode;
-			while (startNode.next != null)
+			while (startNode != null && startNode.next != null)
 			{
 				startNode = startNode.next;
 			}
 
-			startNode.next = newNode;
-			return original;
+			if (startNode != null)
+            {
+                startNode.next = newNode;
+            }
+		}
+
+		public static void PrintLinkedList(this Node start)
+		{
+			while (start != null)
+			{
+				Console.WriteLine($"The element : {start.value}");
+				start = start.next;
+			}
 		}
 	}
 }
