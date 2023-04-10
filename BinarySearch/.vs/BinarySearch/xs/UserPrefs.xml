@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0009E0CC-D251-42B6-80A2-7407D687CE9A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DailyChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DailyChallenge/Models/Node.cs">
+    <Files>
+      <File FileName="DailyChallenge/Program.cs" Line="7" Column="1" />
+      <File FileName="DailyChallenge/Models/Node.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinarySearch" expanded="True" selected="True">
+            <Node name="BinarySearch" expanded="True" />
+            <Node name="DailyChallenge" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
