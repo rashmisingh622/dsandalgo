@@ -1,9 +1,9 @@
 ﻿using System;
 namespace DailyChallenge.Models
 {
-	public class EmptyClass
+	public class Node
 	{
-		public EmptyClass()
+		public Node()
 		{
 		}
 	}
