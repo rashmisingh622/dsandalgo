@@ -25,6 +25,24 @@ namespace DailyChallenge.Models
 				start = start.next;
 			}
 		}
+
+		public static Node ReverseLinkedList(this Node startNode)
+		{
+			Node previousNode = null;
+			Node nextNode = null;
+			var p = startNode;
+
+			while (p != null)
+			{
+				nextNode = p.next;
+				p.next = previousNode;
+				previousNode = p;
+				p = nextNode;
+			}
+
+			startNode = previousNode;
+			return startNode;
+		}
 	}
 }
 
